@@ -76,4 +76,7 @@ Mean, Median and Mode
 * Standard Deviation (SD)
 * Random Variables
 * Sets
-
+## Measures of Shape
+* Skewness
+* Kurtosis
+  

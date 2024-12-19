@@ -79,4 +79,6 @@ Mean, Median and Mode
 ## Measures of Shape
 * Skewness
 * Kurtosis
+Covariance and Correlation
+ChiSquare Distribution using Python
   

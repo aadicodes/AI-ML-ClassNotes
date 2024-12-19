@@ -4,7 +4,7 @@ is a branch of mathematics that studies the likelihood of different outcomes fro
 The first step in DataScience is "Exploring Data "
 Exploratory Data Analysis (EDA) is relatively new area of Statistics
 
-Classical Statistics are focused on Inference.
+* Classical Statistics are focused on Inference.
 
 EDA has evolved beyond its original scope due to rapid development of new technology, access to big data and use of quantitative analysis. 
 
@@ -34,7 +34,7 @@ Average Mileage of all Cars = Parameter (for Car Population)
 Avg. life of a sample is statistic
 
 
-TYPES of Statistics : 
+## TYPES of Statistics : 
 	1. Descriptive Statistics : A branch of Statistics that involve organizing, displaying and describing data, used to describe a Data set features, also involves calculating a statistic for a sample
 	2. Inferential Statistics : Methods that enable estimation of one or more characteristics of a population. Facilitates making a decision on a population based its sample results. Data is taken from samples to make generalizations about Population. 
 	3. Predictive Statistics : Science of extracting information from data and using them to predict Trends, behavior patterns and relationships between characteristics
@@ -45,12 +45,12 @@ https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 https://minireference.com/static/tutorials/sympy_tutorial.pdf
 https://live.sympy.org/
 
-*Data Categorization
+## Data Categorization
 	1. Qualitative Data (or Categorical)
 	2. Quantitative Data
 Data is typically categorized for statistical analysis based on its measurement scale, primarily into two main groups: categorical (qualitative) data, which describes categories or groups, and quantitative data, which represents numerical values that can be measured or counted; further divisions within these categories include nominal, ordinal, discrete, and continuous data depending on the level of measurement and the characteristics of the data itself.
 
-**Key points about data categorization:
+## Key points about data categorization:
 • Categorical data:
 • Nominal: Represents categories with no inherent order (e.g., hair color - brown, black, blonde). 
 • Ordinal: Represents categories with a natural order, but the difference between categories may not be consistent (e.g., T-shirt size - small, medium, large). 
@@ -66,7 +66,7 @@ Example of data categorization:
 • Quantitative (Discrete): 25, 30, 18
 
 
-**Measures of Central Tendency
+## Measures of Central Tendency
 Mean, Median and Mode
 
 **Measures of Dispersion

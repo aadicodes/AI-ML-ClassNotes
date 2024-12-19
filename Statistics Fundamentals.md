@@ -1,4 +1,4 @@
-# Statistics Fundametals
+# Statistics Fundamentals
 
 ## Probability theory 
 is a branch of mathematics that studies the likelihood of different outcomes from uncertain events, essentially providing a mathematical framework to analyze randomness and quantify the chance of something happening, where the probability of an event is a number between 0 (impossible) and 1 (certain). This was developed during 17th to 19th centuries. 

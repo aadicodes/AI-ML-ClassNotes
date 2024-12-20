@@ -5,11 +5,21 @@ e.g., Flipping of Coin, Chance of Rain, Chance for a Party to win in an election
 
 A **Probability Distribution (PD)** is a statistical function that describes all the possible values and likelihoods that a random variable can take within a given range.
 
-Based on principles of Bernoulli Trials, there two types of PDs.
+**Types of PDs**
 
-1. Binomial Distribution
-2. Poisson Distribution
+    1. Binomial Distribution
+    2. Poisson Distribution
+    3. Normal Distribution
+    4. Bernoulli Distribution
 
+**Probabality Functions**
+
+    1. Density Function
+    2. Mass Function
+    3. Cumulative Distribution Function
+
+
+Reference : [View PDF File](./cheatsheets/probabilitydistribution.pdf)
 
 
 > Sample Mermaid Diagram 

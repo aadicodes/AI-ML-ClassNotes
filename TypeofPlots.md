@@ -1,3 +1,4 @@
+# Types of Plots or Graphs
 ### Line Plot
 	A line graph drawn on x/y axis ,e.g timeseries data plotted on a graph
 ### Marker Plot
